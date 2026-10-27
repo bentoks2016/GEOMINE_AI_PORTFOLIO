@@ -1,0 +1,9 @@
+location_id,latitude,longitude,mineral,source_type
+GM001,7.5,5.10,Gold,Synthetic Demo
+GM002,8.2,6.30,Lithium,Synthetic Demo
+GM003,,7.20,Gold,Synthetic Demo
+GM004,95.0,5.50,Tin,Synthetic Demo
+GM005,7.1,unknown,Tantalum,Synthetic Demo
+GM006,6.5,4.30,Beryllium,Synthetic Demo
+GM007,9.1,200.00,Gold,Synthetic Demo
+GM008,10.2,8.10,Lithium,Synthetic Demo
