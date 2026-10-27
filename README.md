@@ -268,8 +268,7 @@ Create a virtual environment:
 python3 -m venv .venv
 source .venv/bin/activate
 
-## Copyright and Usage
-
+```
 Copyright © 2026. All rights reserved.
 
 This repository is published for portfolio demonstration,
